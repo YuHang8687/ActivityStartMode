@@ -1,0 +1,2 @@
+# ActivityStartMode
+主要针对Activity的启动模式进行练习
